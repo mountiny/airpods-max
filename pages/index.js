@@ -123,7 +123,7 @@ const Index = () => {
         </div>
 
         <footer className="pb-16 pt-32">
-          Made by <a className="font-bold" href="https://twitter.com/vitHoracek" target="_blank">@vitHoracek</a> / <a className="font-bold" href="https://www.mountiny.com/" target="_blank">mountiny</a>
+          Made by <a className="font-bold" href="https://twitter.com/vitHoracek" target="_blank">@vitHoracek</a> / <a className="font-bold" href="https://www.mountiny.com/" target="_blank">mountiny</a> / thanks to <a href="https://www.macrumors.com/2020/12/08/airpods-max-color-combinations/" target="_blank">Macrumors</a>
         </footer>
       </div>
     </div>
