@@ -45,7 +45,7 @@ const Index = () => {
           <div>
             <h1 className="text-4xl font-black pb-8">Airpods Max Variants</h1>
             <h4 className="text-lg">
-              Explore all the Airpods Max color combinations right here!
+              Explore all the Airpods Max colour combinations right here!
             </h4>
           </div>
           <div className="mt-8 md:mt-0">
