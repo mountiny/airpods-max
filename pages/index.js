@@ -29,16 +29,16 @@ const Index = () => {
         <title>Airpods Max Variants</title>
         <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon" />
         <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon" />
-        
+
         <meta property="og:title" content="Airpods Max - All 25 of them you can't afford" key="title" />
         <meta property="og:description" content="Showcase of all the Airpods Max colour variations." key="description" />
-        <meta property="og:image" content="assets/images/thubnail.jpg" />
-        <meta property="og:card" content="assets/images/thubnail.jpg" />
+        <meta property="og:image" content="https://airpods-max.vercel.app/assets/images/thumbnail.jpg" />
+        <meta property="og:card" content="summary" />
 
         <meta name="twitter:title" content="Airpods Max - All 25 of them you can't afford" />
         <meta name="twitter:description" content=" Showcase of all the Airpods Max colour variations." />
-        <meta name="twitter:image" content="assets/images/thubnail.jpg" />
-        <meta name="twitter:card" content="assets/images/thubnail.jpg" />
+        <meta name="twitter:image" content="https://airpods-max.vercel.app/assets/images/thumbnail.jpg" />
+        <meta name="twitter:card" content="summary_large_image" />
       </Head>
       <div className="container mx-auto px-16 font-sans pt-12">
         <header className="pb-16 flex justify-between">
